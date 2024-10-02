@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://seasalon.vercel.app](https://seasalon.vercel.app)
 
-- 💬 Ask me about **react, django, nodejs, springboot, nextjs**
+- 💬 Ask me about **react, django, nodejs, expressjs, springboot, nextjs**
 
 - 📫 How to reach me **alvinwidinugroho@gmail.com**
 
